@@ -20,9 +20,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4087699786334786}
   - component: {fileID: 212351087672209900}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Black_Rook
-  m_TagString: Untagged
+  m_TagString: Black
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,8 +74,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1fa4b5a1aad993e4f81365081d7c2f70, type: 3}
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 4284588c01c3c764ea690b9f9b427d44, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
