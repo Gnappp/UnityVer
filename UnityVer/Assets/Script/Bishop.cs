@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class Bishop : MonoBehaviour {
 
+    public bool doMove;
+    public string pieceType;
+    public string pieceColor;
+
+    public void CanMove(int[,] board)
+    {
+
+    }
+
 	// Use this for initialization
 	void Start () {
 		

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404474370268",
+    "firebase_url": "https://unitytest-567b5.firebaseio.com",
+    "project_id": "unitytest-567b5",
+    "storage_bucket": "unitytest-567b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404474370268:android:c88bfc1d1c6a38e74c7c19",
+        "android_client_info": {
+          "package_name": "com.Company.ProductName"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404474370268-a1mq9d8fbrluqt0sdtg8vmq8c3g275fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDuTPLVVwoAzlfgnNjRle-VEcn9R_KIb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404474370268-a1mq9d8fbrluqt0sdtg8vmq8c3g275fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
